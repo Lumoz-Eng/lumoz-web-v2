@@ -11,10 +11,8 @@ const Header = () => {
           Lumoz Studio Change your Digital Life
         </h1>
         <p>
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quis
-          deleniti adipisci officiis similique odit, quo culpa, unde voluptatem
-          repellendus optio veritatis ipsam quidem. Vitae nostrum veniam
-          temporibus necessitatibus distinctio blanditiis.
+          A new era for live content creation with argumented reality and 3D
+          technologies
         </p>
         <div className='lumoz__header-content__input'>
           <input type='email' placeholder='get email updates' />
