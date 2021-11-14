@@ -19,16 +19,16 @@ const whatLumoz = () => {
       </div>
       <div className='lumoz__whatLumoz-container'>
         <Feature
-          title='3D Modal Placement'
-          text='Takes the identified point and uses it to place the 3D Object'
+          title='Always look professional'
+          text='Host a stable stream that is on-brand and smooth every time.'
         />
         <Feature
-          title='Gesture Detection'
-          text='Allow users to communicate with the 3D objects with hand gestures'
+          title='No Software Downloads'
+          text='Go live with guests from your browser in a few clicks.'
         />
         <Feature
-          title='Point Tracking '
-          text='The points on the real world environment will be identified and adjust the point according to the camera movement.'
+          title='Multistreaming '
+          text='Works seamlessly with Facebook, YouTube, Linkedin, Twitter, Twitch, and more.'
         />
       </div>
     </div>

@@ -1,7 +1,27 @@
 import React from 'react'
+import possbility from '../../assets/possibility.png'
 import './possibility.css'
 const Possbility = () => {
-  return <div>Possbility</div>
+  return (
+    <div className='lumoz__possibility section__padding' id='possibility'>
+      <div className='lumoz__possibility-image'>
+        <img src={possbility} alt='possibility' />
+      </div>
+      <div className='lumoz__possibility-content'>
+        <h4>Request Early Access to Get Started</h4>
+        <h1 className='gradient__text'>
+          Brand your broadcasts. No design skills required.
+        </h1>
+        <p>
+          Yet bed any for travelling assistance indulgence unpleasing. Not
+          thoughts all exercise blessing. Indulgence way everything joy
+          alteration boisterous the attachment. Party we years to order allow
+          asked of.
+        </p>
+        <h4>Request Early Access to Get Started</h4>
+      </div>
+    </div>
+  )
 }
 
 export default Possbility
