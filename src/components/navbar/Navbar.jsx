@@ -12,13 +12,13 @@ const Menu = () => (
       <a href='#whatLumoz'>What is Lumoz</a>
     </p>
     <p>
-      <a href='#possibility'>OpenAR</a>
+      <a href='#features'>Features</a>
     </p>
     <p>
-      <a href='#features'>Case Studies</a>
+      <a href='#achievement'>Achievement</a>
     </p>
     <p>
-      <a href='#blog'>Library</a>
+      <a href='#blog'>About</a>
     </p>
   </>
 )
