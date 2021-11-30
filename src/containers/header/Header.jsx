@@ -11,8 +11,9 @@ const Header = () => {
           Lumoz Studio Change your Digital Life
         </h1>
         <p>
-          A new era for live content creation with argumented reality and 3D
-          technologies
+          Hey there, 👋 Future generations of the Metaverse! This is our
+          augmented reality based solution for a smooth real-time live media
+          production.
         </p>
         <div className='lumoz__header-content__input'>
           <input type='email' placeholder='get email updates' />

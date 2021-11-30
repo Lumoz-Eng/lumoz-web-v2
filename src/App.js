@@ -1,6 +1,6 @@
 import './App.css'
 
-import { Article, Brand, CTA, Feature, Navbar } from './components'
+import { Article, Brand, CTA, Feature, Navbar, Achievement } from './components'
 import {
   Footer,
   Blog,
@@ -22,6 +22,7 @@ function App() {
       <Features />
       <Possibility />
       <CTA />
+      <Achievement />
       <Blog />
       <Footer />
     </div>
