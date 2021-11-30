@@ -1,7 +1,7 @@
 import React from 'react'
 import './header.css'
 
-import Lumoz from '../../assets/lumoz.png'
+import Lumoz from '../../assets/demo.gif'
 
 const Header = () => {
   return (

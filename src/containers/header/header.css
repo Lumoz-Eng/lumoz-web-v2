@@ -85,7 +85,11 @@
 
 .lumoz__header-image img {
   width: 100%;
-  height: 100%;
+  height: auto;
+  border-radius: 10px;
+}
+.gif {
+  background-position-y: 50%;
 }
 
 @media screen and (max-width: 1050px) {
