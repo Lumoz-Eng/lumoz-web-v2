@@ -33,13 +33,6 @@ const Blog = () => {
             // Style options goes here:
             optins={{ width: '900px' }}
           />
-          <TwitterTimelineEmbed
-            sourceType='profile'
-            // The preferred screen name goes next:
-            screenName='lumozstudio'
-            // Style options goes here:
-            options={{ height: 500 }}
-          />
         </div>
       </div>
     </div>

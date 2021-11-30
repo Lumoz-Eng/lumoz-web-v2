@@ -3,4 +3,19 @@
   line-height: 75px;
   font-family: var(--font-family);
   font-weight: 800;
+  margin-bottom: 30px;
+}
+
+#cover {
+  display: flex;
+  align-content: space-between;
+  justify-content: space-between;
+
+  gap: 1px;
+}
+
+#cover img {
+  width: 45%;
+  height: auto;
+  border-radius: 20px;
 }
