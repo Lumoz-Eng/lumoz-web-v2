@@ -135,32 +135,32 @@
 }
 
 .fa-facebook {
-  background: #3b5998;
+  border: 1px solid white;
   color: white;
 }
 
 .fa-twitter {
-  background: #55acee;
+  border: 1px solid white;
   color: white;
 }
 
 .fa-google {
-  background: #dd4b39;
+  border: 1px solid white;
   color: white;
 }
 
 .fa-linkedin {
-  background: #007bb5;
+  border: 1px solid white;
   color: white;
 }
 
 .fa-youtube {
-  background: #bb0000;
+  border: 1px solid white;
   color: white;
 }
 
 .fa-instagram {
-  background: #125688;
+  border: 1px solid white;
   color: white;
 }
 @media screen and (max-width: 850px) {
