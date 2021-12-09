@@ -6,7 +6,7 @@ const Blog = () => {
     <div className='lumoz__blog section__padding' id='blog'>
       <div className='lumoz__blog-heading'>
         <h1 className='gradient__text'>
-          A lot is happening, <br /> We are Post about it.
+          A lots of happening, <br /> We are Post about it.
         </h1>
       </div>
 
