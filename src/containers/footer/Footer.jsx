@@ -31,7 +31,7 @@ const Footer = () => (
         <h4>Links</h4>
         <p>Home</p>
         <p>Social Media</p>
-        <p>Counters</p>
+        <p>About</p>
         <p>Contact</p>
       </div>
       <div className='lumoz__footer-links_div'>
@@ -42,9 +42,9 @@ const Footer = () => (
       </div>
       <div className='lumoz__footer-links_div'>
         <h4>Get in touch</h4>
-        <p>Crechterwoord K12 182 DK Alknjkcb</p>
-        <p>085-132567</p>
-        <p>info@payme.net</p>
+        <p>Malabe , SriLanka</p>
+        <p>xxx-xxxxx</p>
+        <p>lumoz.studio@gmail.com</p>
       </div>
     </div>
 
