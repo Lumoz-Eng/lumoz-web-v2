@@ -18,13 +18,19 @@
   width: 45%;
   height: auto;
   border-radius: 20px;
+  cursor: pointer;
+}
+
+#cover img:hover {
+  transform: scale(1.1);
+  transition: transform 0.3s;
 }
 
 @media screen and (max-width: 700px) {
   #cover {
     display: flex;
     flex-direction: column;
-    gap: 10px;
+    gap: 60px;
     align-items: center;
   }
 
@@ -33,6 +39,7 @@
     height: auto;
     border-radius: 20px;
   }
+
   .achivement-heading h1 {
     font-size: 34px;
     line-height: 42px;
