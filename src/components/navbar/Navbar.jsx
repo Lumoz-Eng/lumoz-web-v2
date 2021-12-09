@@ -18,7 +18,7 @@ const Menu = () => (
       <a href='#achievement'>Achievement</a>
     </p>
     <p>
-      <a href='#blog'>About</a>
+      <a href='#our-team'>About</a>
     </p>
   </>
 )
