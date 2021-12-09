@@ -25,6 +25,11 @@
   .team-container img {
     width: 100%;
   }
+
+  .our-team-heading h1 {
+    font-size: 34px;
+    line-height: 42px;
+  }
 }
 
 @media screen and (max-width: 550px) {
@@ -34,5 +39,9 @@
   }
   .team-container img {
     width: 100%;
+  }
+  .our-team-heading h1 {
+    font-size: 34px;
+    line-height: 42px;
   }
 }
