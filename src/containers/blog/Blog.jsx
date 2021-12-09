@@ -1,40 +1,22 @@
 import React from 'react'
 import './blog.css'
-import { TwitterTimelineEmbed, TwitterTweetEmbed } from 'react-twitter-embed'
 
 const Blog = () => {
   return (
     <div className='lumoz__blog section__padding' id='blog'>
       <div className='lumoz__blog-heading'>
         <h1 className='gradient__text'>
-          A lot is happening, <br /> We are Tweeting about it.
+          A lot is happening, <br /> We are Post about it.
         </h1>
       </div>
-      <div className='lumoz__blog-container'>
-        <div className='lumoz__blog-container_groupA'>
-          {' '}
-          <TwitterTweetEmbed
-            // Here goes your copied ID.
-            tweetId={'1446018874629971971'}
-            // Style options goes here:
-            optins={{ width: '900px' }}
-          />
-        </div>
-        <div className='lumoz__blog-container_groupB'>
-          <TwitterTweetEmbed
-            // Here goes your copied ID.
-            tweetId={'1430546218317279233'}
-            // Style options goes here:
-            optins={{ width: '900px' }}
-          />
-          <TwitterTweetEmbed
-            // Here goes your copied ID.
-            tweetId={'1430546539261284360'}
-            // Style options goes here:
-            optins={{ width: '900px' }}
-          />
-        </div>
-      </div>
+
+      <iframe
+        allowfullscreen
+        id='wallsio-iframe'
+        src='https://my.walls.io/f73x9?nobackground=1&amp;show_header=0'
+        loading='lazy'
+        title='My social wall'
+      ></iframe>
     </div>
   )
 }

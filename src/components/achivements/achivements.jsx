@@ -13,6 +13,7 @@ const achivements = () => {
 
       <div id='cover'>
         <img src={NBQSA} />
+        
         <img src={ICAC} />
       </div>
     </div>
