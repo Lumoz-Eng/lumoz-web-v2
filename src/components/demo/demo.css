@@ -1,0 +1,14 @@
+.demoimg_div {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-content: center;
+}
+
+.demoimg_div img {
+  width: 100%;
+  border-radius: 30px;
+  -moz-box-shadow: 0 0 5px #fff;
+  -webkit-box-shadow: 0 0 5px #fff;
+  box-shadow: 0px 0px 5px #fff;
+}

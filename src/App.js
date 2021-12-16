@@ -8,6 +8,7 @@ import {
   Navbar,
   Achievement,
   Team,
+  Demo,
 } from './components'
 import {
   Footer,
@@ -29,7 +30,9 @@ function App() {
       <WhatLumoz />
       <Features />
       <Possibility />
+      <Demo />
       <CTA />
+
       <Achievement />
       <Team />
       <Blog />
