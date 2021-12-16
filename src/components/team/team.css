@@ -6,20 +6,6 @@
   margin-bottom: 30px;
 }
 
-/* .team-container {
-  display: grid;
-  grid-template-columns: repeat(4, 1fr);
-  grid-gap: 10px;
-}
-
-.team-container img {
-  width: 100%;
-} */
-
-.team-section {
-  padding: 70px 15px 30px;
-}
-
 .container {
   max-width: 1170px;
   margin: auto;
