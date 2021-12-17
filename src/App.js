@@ -11,6 +11,7 @@ import {
   Team,
   Demo,
   Splash,
+  DotRing,
 } from './components'
 import {
   Footer,
@@ -32,6 +33,7 @@ function App() {
 
   return (
     <div className='App'>
+      <DotRing />
       {loading ? (
         <Splash />
       ) : (
