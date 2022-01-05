@@ -46,7 +46,6 @@ function App() {
           <Brand />
           <WhatLumoz />
           <Features />
-          <Possibility />
           <Demo />
           <CTA />
           <Achievement />
