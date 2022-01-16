@@ -1,6 +1,6 @@
 import React from 'react'
 import './team.css'
-
+import Jayaniimg from '../../assets/jayani.jpg'
 const Team = () => {
   return (
     <div className='our-team section__padding' id='our-team'>
@@ -98,10 +98,7 @@ const Team = () => {
                 </div>
               </div>
               <div className='item'>
-                <img
-                  src='https://avatars.githubusercontent.com/u/46712772?v=4'
-                  alt='team'
-                />
+                <img src={Jayaniimg} alt='team' />
                 <div className='inner'>
                   <div className='info'>
                     <h5>Jayani Gankanda</h5>
