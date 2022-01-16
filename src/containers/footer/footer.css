@@ -31,7 +31,7 @@
   border: 1px solid #fff;
   text-align: center;
   border-radius: 30px;
-  margin-bottom: 4rem;
+  margin-bottom: 10rem;
   cursor: pointer;
 }
 
@@ -137,6 +137,7 @@
   border: 1px solid white;
   color: white;
 }
+
 /* .fa-facebook {
   border: 1px solid white;
   color: white;

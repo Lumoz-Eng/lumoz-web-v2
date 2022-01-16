@@ -12,7 +12,7 @@ const achivements = () => {
       </div>
 
       <div id='cover'>
-        <img src={NBQSA} />
+        <img src={NBQSA} className="img1"/>
         
         <img src={ICAC} />
       </div>

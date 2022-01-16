@@ -41,7 +41,8 @@
 
 .lumoz__header-content__input input {
   flex: 2;
-  width: 100%;
+  width: 150%;
+
   min-height: 50px;
   font-family: var(--font-family);
   font-weight: 400;
@@ -58,8 +59,9 @@
 }
 
 .lumoz__header-content__input button {
+  margin-top: 10px;
   flex: 0.6;
-  width: 100%;
+  width: 50%;
   min-height: 50px;
   font-family: var(--font-family);
   font-weight: 400;

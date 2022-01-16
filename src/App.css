@@ -12,6 +12,19 @@ a {
   color: unset;
   text-decoration: none;
 }
+.line-container {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  overflow: hidden;
+}
+svg {
+  display: inline-block;
+  height: 100%;
+}
 
 .gradient__bg {
   background: -moz-radial-gradient(
