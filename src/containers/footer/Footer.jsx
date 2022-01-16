@@ -12,7 +12,9 @@ const Footer = () => (
     </div>
 
     <div className='lumoz__footer-btn'>
-      <p>Subscribe Our News Letter</p>
+      <a href='#home'>
+        <p>Subscribe Our News Letter</p>
+      </a>
     </div>
 
     <div className='social-media-links'>
