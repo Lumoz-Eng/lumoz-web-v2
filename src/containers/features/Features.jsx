@@ -4,19 +4,23 @@ import Feature from '../../components/feature/Feature'
 const featuresdata = [
   {
     title: '3D Object Placement ',
-    text: 'From they fine john he give of rich he. They age and draw mrs like. Improving end distrusts may instantly was household applauded.',
+    text: 'presenter uses 3D objects in their live stream, the 3D object should be positioned correctly. ',
   },
   {
     title: 'Support Hand Gesture',
-    text: 'From they fine john he give of rich he. They age and draw mrs like. Improving end distrusts may instantly was household applauded.',
+    text: 'dealing with 3D objects in an Augmented reality space, gesture controls is a very important feature to have in a product. That’s why we introduce separate hand signals, for the users to have an interactive session with their audience',
   },
   {
     title: 'Realtime Date visualization',
-    text: 'From they fine john he give of rich he. They age and draw mrs like. Improving end distrusts may instantly was household applauded.',
+    text: 'We also provide the facility to create customized 3D graphs and charts according to the users datasets.',
+  },
+  {
+    title: '3D Object Library',
+    text: 'LUMOZ provides a separate 3D model library where the users can import and save 3D objects which they can use in their live streaming.',
   },
   {
     title: 'IOT Device Support',
-    text: 'From they fine john he give of rich he. They age and draw mrs like. Improving end distrusts may instantly was household applauded.',
+    text: 'We also introduce a special sensor based IOT device through this research.This camera mount device provides users a better tracking features It helps the users to have a parallel movement of the 3D object with the camera.',
   },
 ]
 
