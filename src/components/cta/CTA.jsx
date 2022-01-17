@@ -5,11 +5,12 @@ const Cta = () => {
   return (
     <div className='lumoz__cta'>
       <div className='lumoz__cta-content'>
-        <p>Request Early Access to Get Started</p>
-        <h3>Register Today & start exploring the endless possibilities.</h3>
+        <h3>Lumoz 1.0 Beta Release Coming Soon !</h3>
       </div>
       <div className='lumoz__cta-btn'>
-        <button type='button'>Get Started</button>
+        <a href='#whatLumoz'>
+          <button type='button'>Scroll Down for More Info </button>
+        </a>
       </div>
     </div>
   )

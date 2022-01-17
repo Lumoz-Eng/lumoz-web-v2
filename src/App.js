@@ -84,11 +84,11 @@ function App() {
             <Navbar />
             <Header />
           </div>
+          <CTA />
           <Brand />
           <WhatLumoz />
           <Features />
           <Demo />
-          <CTA />
           <Achievement />
           <Team />
           <Blog />

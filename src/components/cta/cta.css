@@ -4,7 +4,7 @@
   align-items: center;
   flex-direction: row;
 
-  padding: 2rem;
+  padding: 3rem;
   margin: 4rem;
   border-radius: 1rem;
   background: var(--gradient-bar);
@@ -27,7 +27,7 @@
 
 .lumoz__cta-content h3 {
   font-family: var(--font-family);
-  font-size: 24px;
+  font-size: 30px;
   line-height: 45px;
   font-weight: 800;
 }
